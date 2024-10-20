@@ -3,5 +3,12 @@
 x = [1,2,3,4]; y = [1,2,3,4]
 print(x==y) # equivalence
 print(x is y) #object identity
-print(x = y) # assignment operator
+#print(x = y) # assignment operator
 print(x is y) # returns True
+
+z = 3 + 4j
+print(int(z.real))
+print(int(z.imag))
+print(1-0.9)
+print(0.09999999999999998 == 0.1)
+print(1-0.9 == 0.1)
