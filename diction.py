@@ -39,3 +39,11 @@ print(d3.items())
 
 # keys()
 print(d3.keys())
+
+#pop([,deafult])
+print(d3.pop())
+
+print(d3.popitem())
+
+# setdeafult(k [,v])
+ 
